@@ -1,0 +1,14 @@
+body {
+    background-color: #FF9B9B;
+    }
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+}
+
+.tableauPlaceholder {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
